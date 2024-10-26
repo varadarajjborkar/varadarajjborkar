@@ -1,0 +1,6 @@
+- Hey there👋, I’m VARAD
+- 👀 I’m interested in music, football and travelling with friends
+- 🌱 currently learning? yeah...
+- I’m looking to collaborate on any prjects that involve C++, C, Python & php
+- 📫 How to reach me: Varadaraj Borkar (LinkedIn)
+- ⚡ Fun fact: i m curious asf
