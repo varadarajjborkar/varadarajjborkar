@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hey there👋, I’m VARAD<br>👀 I’m interested in music, football and travelling with friends<br>🌱 currently learning? yeah...<br>I’m looking to collaborate on any prjects that involve C++, C, Python & php<br>📫 How to reach me: Varadaraj Borkar (LinkedIn)<br>⚡ Fun fact: i m curious asf
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
