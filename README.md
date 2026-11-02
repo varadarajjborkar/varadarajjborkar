@@ -1,1 +1,1 @@
-i like ai
+![Frog, cat, and monkey peeking out from the rotated image](image-with-cutouts.png)
